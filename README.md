@@ -28,7 +28,7 @@ Check out my [website](https://hannahpagebau.com/)!
 
 
 ## Features
-- Multiple pages to display various types of information
+This website features multiple pages to display various types of information.
   - Contact page
   - Access to helpful community resources
 
